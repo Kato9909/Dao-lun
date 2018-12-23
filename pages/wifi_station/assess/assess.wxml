@@ -1,0 +1,11 @@
+<view class='titlesize'>{{result}}</view>
+<view class='tip2'>{{result2}}</view>
+<view class='tip1'>{{result1}}</view>
+<view class='tip3'>{{result3}}</view>
+
+<view class='tip4'>{{result4}}</view>
+
+<view class='hum'>湿度：{{humData}}</view>
+<view class='light'>光强：{{lightData}}</view>
+<view class='temp'>温度：{{tempeData}}</view>
+<view class='sound'>声强:{{soundData}}</view>

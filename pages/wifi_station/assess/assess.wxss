@@ -1,0 +1,70 @@
+.titlesize{
+  font-size: 45px;                       
+  font-weight: bold;                     
+  text-align:center;                     
+  color:red        
+}
+
+.tip2{
+  font-size: 20px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 60%;                   
+  color:rgb(188, 173, 230)        
+}
+
+.tip1{
+  font-size: 20px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 50%;                     
+  color:lightblue        
+}
+
+.tip3{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 60%;                     
+  color:rgb(126, 201, 226)        
+}
+
+.tip4{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 65%;                     
+  color:rgb(236, 119, 52)        
+}
+
+.hum{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 65%;                     
+  color:rgb(23, 63, 243)         
+}
+
+.light{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 70%;                     
+  color:rgb(23, 63, 243)         
+}
+
+.temp{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 75%;                     
+  color:rgb(23, 63, 243)         
+}
+
+.sound{
+  font-size: 30px;                       
+  font-weight: normal;                     
+  text-align:center;
+  top: 80%;                     
+  color:rgb(23, 63, 243)        
+}

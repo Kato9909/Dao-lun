@@ -1,0 +1,8 @@
+<!--start.wxml-->
+<image src="../image/8733LV.jpg"class="img"></image>
+
+<button class="btn1" bindtap="getDataFromOneNet">
+查看宿舍环境(OneNet)</button>
+
+  <button class="btn2" bindtap="getDatafromBaidu">
+查看室外天气</button>

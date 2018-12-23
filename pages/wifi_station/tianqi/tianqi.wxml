@@ -1,0 +1,13 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas>
+<canvas class = "canvas" id="chart2"
+canvas-id="light"></canvas>
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<canvas class = "canvas" id="chart4"
+canvas-id="sound"></canvas>
+
+<button class="btn0" bindtap="assessValue">
+查看宿舍环境评价</button>
+
+<button open-type='share'>分享</button>
